@@ -1,0 +1,11 @@
+*{ margin:0px; padding:0px; }
+body{ font-family: 'Calibri', sans-serif;}
+header{ background:#333; padding:15px 0px}
+.container{ max-width:1140px; margin:auto;}
+nav{ text-align:center;}
+nav a{ color:#fff; font-size: 16px; margin: 0 10px; text-decoration: none;  text-transform: uppercase; }
+nav a:hover{ color:#fff; opacity: 0.7;}
+
+.site-content{ padding:15px 0px; }
+
+footer{ background:#333; padding:15px 0px; font-size: 16px; text-align:center; color:#fff; position: absolute; bottom: 0; left:0; width: 100%;}
